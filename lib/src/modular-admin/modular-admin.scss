@@ -10,7 +10,7 @@ $spacer:   0.5rem !default;
 
 /*
  * Import all of Open Sans.
-
+ */
 $OpenSansPath: "packages/ng_modular_admin/open-sans/fonts" !default;
 $OpenSansVersion: "1.1.0" !default;
 
@@ -25,7 +25,7 @@ $OpenSansVersion: "1.1.0" !default;
 @import '../open-sans/sass/BoldItalic';
 @import '../open-sans/sass/ExtraBold';
 @import '../open-sans/sass/ExtraBoldItalic';
- */
+
 /*
  * Import some things we need from Bootstrap.
  */
