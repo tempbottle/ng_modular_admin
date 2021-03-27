@@ -2,8 +2,7 @@ import 'dart:async';
 import 'dart:html';
 
 import 'package:angular/angular.dart';
-
-import '../services/document.dart';
+import 'package:ng_modular_admin/src/services/document.dart';
 
 /// This component creates some hidden elements that are used to figure out
 /// what the bootstrap size of the current viewport is.

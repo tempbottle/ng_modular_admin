@@ -1,10 +1,11 @@
 /*
  * Import mixins.
  */
+@import '../bootstrap/functions';
 $spacer:   0.5rem !default;
-@import '../bootstrap/bootstrap';
 @import '../bootstrap/variables';
 @import '../bootstrap/mixins';
+@import '../bootstrap/utilities';
 @import 'mixins';
 
 /*

@@ -2,10 +2,9 @@ import 'dart:async';
 import 'dart:html';
 
 import 'package:angular/angular.dart';
-
-import '../services/side_nav.dart';
-import 'side_nav_item.dart';
-import 'side_nav_menu_header.dart';
+import 'package:ng_modular_admin/src/components/side_nav_item.dart';
+import 'package:ng_modular_admin/src/components/side_nav_menu_header.dart';
+import 'package:ng_modular_admin/src/services/side_nav.dart';
 
 /// A menu in the sidenav.
 @Component(
